@@ -1,0 +1,10 @@
+{
+    "name": "poptlt-lib",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "",
+    "workspaces": [
+        "./packages/*",
+        "./packages/node/*"
+    ]    
+}

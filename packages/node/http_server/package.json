@@ -1,0 +1,15 @@
+{
+  "name": "@poptlt-lib/node-http",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-async-handler": "^1.2.0"
+  }
+}

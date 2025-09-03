@@ -1,0 +1,13 @@
+{
+  "name": "@poptlt-lib/node-app",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+  }
+}
