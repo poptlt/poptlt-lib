@@ -1,7 +1,6 @@
 {
   "name": "@poptlt-lib/mostra",
-  "version": "1.0.5",
-  "type": "module",
+  "version": "1.0.6",
   "bin": "./install.js",
   "scripts": {
   },
