@@ -1,0 +1,13 @@
+{
+  "name": "@poptlt-lib/mostra",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": "./install.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+  }
+}
