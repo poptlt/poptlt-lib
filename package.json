@@ -1,4 +1,5 @@
 {
+    "private": true,
     "name": "poptlt-lib",
     "version": "1.0.7",    
     "description": "",
@@ -7,6 +8,5 @@
         "./packages/node/*"
     ],
     "dependencies": {
-        "@clack/prompts": "^0.11.0"
     }
 }
